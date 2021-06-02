@@ -1,4 +1,3 @@
-# Task1
 The Sparks Foundation: Data Science & Business Analytics Internship Task
 **Name: Syed Uzair Hassan
 **GRIP June 2021
